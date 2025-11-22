@@ -9,6 +9,14 @@
 </p>
 
 ---
+## **TeamMates**
+
+- Sam Dennis M 2448544 
+- Jewel Joshy 2448520  
+- Samyuktaa 2448545 
+- Vyshnavi Katherine 2448558
+
+---
 
 ## ✨ **Overview**
 
@@ -97,6 +105,7 @@ Avoids heavy solvers by default; pragmatic grid search is fast and explainable. 
 
 ---
 
+
 ## ⚙️ **How to Run (Local)**
 
 ```bash
@@ -113,11 +122,4 @@ pip install streamlit pandas numpy scikit-learn altair
 # 3. Run the Streamlit app (local file)
 streamlit run /mnt/data/streamlit_app.py
 
-## TeamMates**
 
-- **Sam Dennis M 2448544 
-- **Jewel Joshy 2448520  
-- **Samyuktaa 2448545 
-- **Vyshnavi Katherine 2448558
-
----
